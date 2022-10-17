@@ -1,6 +1,6 @@
 # Data Drift Analysis and Anomaly detection tools
 
-### Introduction
+### INTRODUCTION
 In the repository are reported methodologies of Anomaly and Drift Detection univariate and multivariate, tested on two different Datasets: [KDDCUP99](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) and [Bike sharing](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset).
 
 ##### KDDCUP99
@@ -15,4 +15,7 @@ Datasets are usually used as baselines in regression and time series forecasting
 
 - Univariate_  PSI, Test Kolmogorov-Smirnov
 - Multivariate: PCA Reconstrucion, VAE Reconstruction, MC-Dropout
+
+### Contribution
+[Lorenzo Loschi](https://github.com/lolloloschi97)
 
